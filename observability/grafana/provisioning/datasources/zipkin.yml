@@ -1,0 +1,6 @@
+apiVersion: 1
+
+datasources:
+  - name: 'zipkin'
+    type: 'zipkin'
+    url: 'http://zipkin:9411'
